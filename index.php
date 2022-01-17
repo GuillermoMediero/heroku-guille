@@ -1,3 +1,3 @@
 <?php 
-echo "hola me llamo javier";
+echo phpinfo();
 ?>
